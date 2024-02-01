@@ -12,7 +12,7 @@ function Reviews() {
             personname={'John'}
            />
              <DefaultReview 
-            personname={'Dev1'}
+            personname={'Dev'}
            />
              <DefaultReview 
             personname={'Aaryan'}
